@@ -1,1 +1,2 @@
-# Assignment
+The project is a simple data anlysis and visulization of COVID 19 data provided by Data Science for COVID-19 (DS4C) on kaggle. The consist of paiteints information
+of South Korea who have been tested postive of the virus. PatientInfo.csv is the data set used and Assignment.ipynb is the ipython file where the code and its output is displayed. 
